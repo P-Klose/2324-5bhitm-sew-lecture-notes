@@ -1,4 +1,18 @@
-= Index page
+= 23/24 5bhitm sew - Lecture Notes
 ifndef::imagesdir[:imagesdir: images]
+:icons: font
+:experimental:
+:sectnums:
+:toc:
+ifdef::backend-html5[]
 
-image::img.png[]
+// https://fontawesome.com/v4.7.0/icons/
+icon:file-text-o[link=https://github.com/2324-5bhitm-sew/2324-5bhitm-itp-lecture-notes/main/asciidocs/{docname}.adoc] ‏ ‏ ‎
+icon:github-square[link=https://github.com/2324-5bhitm-sew/2324-5bhitm-itp-lecture-notes] ‏ ‏ ‎
+icon:home[link=http://edufs.edu.htl-leonding.ac.at/~t.stuetz/hugo/2021/01/lecture-notes/]
+endif::backend-html5[]
+
+== 2023-09-21
+
+
+
