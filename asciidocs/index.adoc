@@ -14,6 +14,11 @@ endif::backend-html5[]
 
 == 2023-09-21
 
-
+* Frage: wie kann man auf einen REST-Serv ice zugreifen
+** GET-Requests über Browser, für POST-Requests wird ein html-Formular oder dgl. benötigt
+** man kann auch plugins im browser installieren
+** Terminal: curl, httpie, wget, ...
+** eigene Programme wie postman und insomnia
+** in ide gibt es oft eigene clients
 
 
