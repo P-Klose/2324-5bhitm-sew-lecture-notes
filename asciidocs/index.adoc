@@ -22,3 +22,13 @@ endif::backend-html5[]
 ** in ide gibt es oft eigene clients
 
 
+== 2023-09-28
+
+* Weiterarbeiten am Wiederholungsbeispiel Airways
++
+https://edufs.edu.htl-leonding.ac.at/moodle/course/view.php?id=4117#[Link zum Classroom^]
+
+
+
+
+
