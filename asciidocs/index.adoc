@@ -31,4 +31,15 @@ https://edufs.edu.htl-leonding.ac.at/moodle/course/view.php?id=4117#[Link zum Cl
 
 
 
+== 2023-09-28
 
+=== Persistieren einer Tabelle
+
+=== Übung
+
+* Erstellen eines UC-Diagramms in README.adoc im Root des Projekts
+** mindestens 3 UCs
+* Erstellen von mehreren Tabellen (max. 4) und persistieren in der Datenbank
+* Beachten Sie das die Assoziationen korrekt sind
+* Erstellen der Unit-Tests
+* Dokumentieren Sie das Continous Testing
