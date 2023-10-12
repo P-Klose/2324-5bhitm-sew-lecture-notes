@@ -31,7 +31,7 @@ https://edufs.edu.htl-leonding.ac.at/moodle/course/view.php?id=4117#[Link zum Cl
 
 
 
-== 2023-09-28
+== 2023-10-05
 
 === Persistieren einer Tabelle
 
@@ -43,3 +43,54 @@ https://edufs.edu.htl-leonding.ac.at/moodle/course/view.php?id=4117#[Link zum Cl
 * Beachten Sie das die Assoziationen korrekt sind
 * Erstellen der Unit-Tests
 * Dokumentieren Sie das Continous Testing
+
+
+== 2023-10-12
+
+=== Fachbegriffe
+
+[%autowidth]
+|===
+|Begriff |(vereinfachte) Erläuterung
+
+|Apache Kafka
+|Message Broker, transaktionsfähig, mit Datenbank, für (Echtzeit-)Datenströme
+
+|Flyway, Liquibase
+|Versionierungslibrary für relationale Datenbanken (Datenstruktur)
+
+|grpc
+|vglbar. mir REST und graphQL, allerdings binäre Datenübertragung
+
+|RBAC
+|Role-based access control, vgl auch UBAC, time based access control, ...
+
+|tenancy
+|Mandantenfähigkeit
+
+|LDAP
+|Lightweight Directory Access Protocol, Namensdienst, wird zur Authentifizierung und Authorisuerung in ORganisationen verwendet. AD (Active Directory) ba   siert auf LDAP mit proprietären Erweiterungen.
+
+|proprietär
+|firmenspezifisch, kein Standard, wird meist nur von einer Firma verwendet
+
+|WebSocket
+|ermöglicht eine bidirektionale Kommuni,kation zwischen Server und Client im zustandslosen TCP/IP.
+
+|SSE
+|Server-sent-events, vglbar mit Websocket, aller dings nur für kurze Textnachrichten und keinen binären Datenaustausch
+
+|validieren
+|auf Gültigkeit prüfen
+
+|
+|
+
+|===
+
+
+
+
+
+
+
