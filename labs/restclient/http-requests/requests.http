@@ -2,6 +2,10 @@ GET http://localhost:8080/post/id/1
 
 ###
 
+GET http://localhost:8080/post/1
+
+###
+
 GET http://localhost:8080/post/all
 
 ###
