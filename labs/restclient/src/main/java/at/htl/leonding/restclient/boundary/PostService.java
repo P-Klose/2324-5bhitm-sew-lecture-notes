@@ -21,5 +21,7 @@ public interface PostService {
 
     @GET
     Set<Post> getByTitle(@QueryParam("title") String title);
+    @GET
+    Set<Post> getByBody(@QueryParam("body") String body);
 
 }

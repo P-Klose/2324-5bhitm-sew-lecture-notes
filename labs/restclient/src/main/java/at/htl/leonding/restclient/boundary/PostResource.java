@@ -36,4 +36,11 @@ public class PostResource {
     public Set<Post> title(String title) {
         return postService.getByTitle(title);
     }
+
+    @GET
+    @Path("/body/{body}")
+    @Produces(MediaType.APPLICATION_JSON)
+    public Set<Post> body(String body) {
+        return postService.getByBody(body);
+    }
 }
