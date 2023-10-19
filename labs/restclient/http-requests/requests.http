@@ -1,0 +1,9 @@
+GET http://localhost:8080/post/id/1
+
+###
+
+GET http://localhost:8080/post/all
+
+###
+
+GET http://localhost:8080/post/title/sunt aut facere repellat provident occaecati excepturi optio reprehenderit
